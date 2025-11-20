@@ -4,7 +4,7 @@
 En el Valle del Cauca existe un alto volumen de noticias relacionadas con la agroindustria. Sin embargo, no siempre es fácil identificar rápidamente si una noticia comunica un panorama positivo, negativo o neutro para el sector. Nuestro proyecto crea un software capaz de analizar automáticamente estas noticias y clasificarlas según su sentimiento: positivo, negativo o neutro.
 
 ## Funcionalidad
-- Recibe noticias de la agroindustria del Valle del Cauca.
+- Recibe noticias de la agroindustria del Valle del Cauca en formato texto.
 - Analiza el texto usando inteligencia artificial.
 - Clasifica la noticia en: positiva, negativa o neutra.
 - Muestra el resultado al usuario de manera clara.
@@ -17,3 +17,7 @@ En el Valle del Cauca existe un alto volumen de noticias relacionadas con la agr
 
 ## Metodología
 Trabajamos bajo la metodología Scrum, organizando tareas y revisando avances en ciclos cortos para asegurar que cada parte del proyecto funcione correctamente.
+
+## Próximas mejoras
+- Integrar transcripción automática de videos de medios confiables, como NotiPacífico, para analizar también noticias en formato audiovisual.
+- Optimizar el clasificador para procesar grandes volúmenes de noticias simultáneamente.
